@@ -18,4 +18,3 @@ found monthly profits
 found top state and customer
 found profit by category and quantity by category
 
-f
