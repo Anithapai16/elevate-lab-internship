@@ -9,3 +9,13 @@ filled the null values with mode (mode because column was categorical)
 filled the missing postal codes by matching the city
 no duplicates rows were there in the dataset
 standardised the column country using string function 
+
+
+# task2
+created a dashbord for sales of a ecommerce dealer using power bi
+created different charts
+found monthly profits
+found top state and customer
+found profit by category and quantity by category
+
+f
